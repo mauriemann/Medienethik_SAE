@@ -10,7 +10,7 @@ narrator: UK English Female
 
 # Einführung in die Medienethik II 
 
-![alt-text](Bilder\Medienethik_filmnoir.webp)
+![alt-text](Medienethik_filmnoir.webp)
 
 
 
@@ -35,7 +35,7 @@ https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
 3. Verantwortungsadressat:innen  
 
 
-![alt text](Bilder\Medienverantwortung.jpg)
+![alt text](Medienverantwortung.jpg)
 
 #### Reichweitenverantwortung
 
