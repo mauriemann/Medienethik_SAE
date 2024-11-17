@@ -60,12 +60,12 @@ Serendipity-Argument
 
 | | |
 |---|---|
-|![alt-text](Bilder\CallMeBy.jpg)|![alt-text](Bilder\JeuneFille.jpg)|
+|![alt-text](CallMeBy.jpg)|![alt-text](JeuneFille.jpg)|
 |(Call me by your name, 2017)|(Portrait de la jeune fille en feu, 2019)|
 
 ### Sex, Gewalt, Emotion
 
-![alt-text](Bilder\Axtmoerder.png)
+![alt-text](Axtmoerder.png)
 
 (The Shining, 1980)
 
@@ -75,7 +75,7 @@ In dem Aufsatz „Film Bodies: Gender, Genre and Excess“ unterscheidet die fem
 
 Während Sex, Gewalt und Emotionen natürlich auch in anderen Genres dargestellt werden, haben die Body Genres zwei Dinge gemein: Zum einen zielen Sie auf eine mehr oder weniger freiwillige körperliche Reaktion beim Publikum ab. Ich sage mehr oder weniger freiwillig, weil man diese Genres durchaus mit dem Ziel rezipiert, sich seinem eigenen Körper auszuliefern, in der Erregung, in der Angst, im Weinen. Zum anderen haben alle drei ein besonders abgründiges Verhältnis zu Geschlecht, sei es zum vergeschlechtlichten Körper allgemein und zum cis weiblichen Körper im Besonderen. Ob zufällig oder nicht sind diese drei Genres kulturell auch nicht besonders hoch angesehen.
 
-![alt-text](Bilder\WeepingViola.jpg)
+![alt-text](WeepingViola.jpg)
 
 (Fences, 2016)
 
@@ -89,7 +89,7 @@ Während Sex, Gewalt und Emotionen natürlich auch in anderen Genres dargestellt
 
 ### Erotik/Pornographie
 
-![alt-text](Bilder\Eyeswideshut.jpg)
+![alt-text](Eyeswideshut.jpg)
 
 (Eyes Wide Shut, 1999)
 
@@ -113,7 +113,7 @@ Offenes vs. Geschlossenes Set
 
 ### Horror/Gewalt/Angst
 
-![alt-text](Bilder\Susperia.jpg)
+![alt-text](Susperia.jpg)
 
 (Susperia, 1977)
 
@@ -139,7 +139,7 @@ Offenes vs. Geschlossenes Set
 
 ### Emotionaler Kontrollverlust
 
-![alt-text](Bilder\WeepingLeo.jpg)
+![alt-text](WeepingLeo.jpg)
 
 (Revolutionary Road, 2008)
 
@@ -165,7 +165,7 @@ Offenes vs. Geschlossenes Set
 
 ### Das kreative Genie?    
 
-![alt-text](Bilder\Regisseure.jpg)
+![alt-text](Regisseure.jpg)
 
 ## Break-Out Session
 
