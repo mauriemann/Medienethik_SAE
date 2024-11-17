@@ -15,7 +15,7 @@ Heike Behnke behnke@philsem.uni-kiel.de
 
 Moritz Riemann riemann@philsem.uni-kiel.de
 
-18./19.11.2024
+18.11.2024 und 19.11.2024
 
 ## Rückblende
 
@@ -25,6 +25,8 @@ https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
 
 ## Aktuelle Herausforderungen der Medienethik
 
+![alt-text](Herausforderung.jpg)
+
 ### Welche Kanäle nutzt Ihr?
 
 1. Wo informiert Ihr Euch worüber?
@@ -33,10 +35,11 @@ https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
 
 ### Fake Content
 
-![alt-text](Fireman.jpg)
+![alt text](Postillon.jpg)
 
 
-Deep-Fakes sind insbesondere in Nachrichtenkontexten ein immenses Problem, stellen abert auch Fiktion und Kunst vor neue Fragen und Herausforderungen.
+
+Deep-Fakes sind insbesondere in Nachrichtenkontexten ein immenses Problem, stellen aber auch Fiktion und Kunst vor neue Fragen und Herausforderungen.
 
 
 
@@ -44,9 +47,11 @@ Warum?:
 
 Fälschungen sind in jedem Medium so alt wie das Medium selbst - von den Hitlertagebüchern 1983 bis zum Varoufakis-Fake 2015 kamen alle Fakes ganz wunderbar ohne KI aus - , aber der Einsatz von Plattformen, die künstliche Intelligenz nutzen, macht sie allgemein verfügbar. Für die mediale Berichterstattung ist dies verheerend.
 
-Berichterstattung droht ihren Geltungsanspruch zu verlieren
-Wahrhaftigkeit und Realitätstreue werden untergraben
-Affirmativität des Bildes ist letztlich Verantwortungsgegenstand
+* Berichterstattung droht ihren Geltungsanspruch zu verlieren 
+
+* Wahrhaftigkeit und Realitätstreue werden untergraben
+
+* Affirmativität des Bildes ist letztlich Verantwortungsgegenstand
 
 ### Verantwortung
 
@@ -55,24 +60,24 @@ Affirmativität des Bildes ist letztlich Verantwortungsgegenstand
 
 >"Für den Journalismus markiert der Verantwortungshorizont im Rahmen der Berichterstattung u.a. die Aufgaben einer Wahrheitsgetreuen Unterrichtung der Öffentlichkeit, die Sorgfaltspflicht, die Richtigstellung von Falschmeldungen, den Schutz der Privatsphäre, das Bestechungsverbot und die Wahrunbg des Berufsgeheimnisses [...]. Im Kontext medienethischer Debatten [stellt sich] unter anderem die Frage, wer die Verantwortung für moralisch fragwürdige Ausprägung der Berichterstattung besitzt. Dabei wird differenziert zwischen der Verantwortung der Akteure, die die Medienprodukte verteilen, sowie die der Mediennutzer [...]." (Schicha 2019, S. 30)
 
-![alt text](Postillon.jpg)
+![alt-text](Fireman.jpg)
 
 (https://www.der-postillon.com/2019/11/ikea-kartoffeln.html)
 
 ### Reichweitenverantwortung
 
-Mit großer Reichweite kommt große Verantwortung
+Mit großer Reichweite kommt große Verantwortung:
 
-Habe ich als Hollywoodregisseur:in, Produzent:in, Schauspieler:in eine größere Verantwortung für meine Inhalte, weil ich mehr Menschen erreiche als etwa eine Arthouse-Produktion?
+* Habe ich als Hollywoodregisseur:in, Produzent:in, Schauspieler:in eine größere Verantwortung für meine Inhalte, weil ich mehr Menschen erreiche als etwa eine Arthouse-Produktion?
 
-Muss ich mich als öffentliche Person politisch positionieren?
+* Muss ich mich als öffentliche Person politisch positionieren?
 
 
 ### AI in der Kreativbranche
 
 ![alt-text](LieutenantData.jpg)
 
-In der Kunst wird dagegen die Frage laut, ob künstlerische Tätigkeiten zukünftig durch AI-Modelle ausgeführt werden können.
+In Kunstdiskursen wird zunehmend die Frage laut, ob künstlerische Tätigkeiten künftig durch AI-Modelle ausgeführt werden können.
 
 Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender Sprachmodelle neu in zwei zentralen Aspekten: 
 
@@ -80,10 +85,9 @@ Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender S
 
 2. Welche Auswirkungen auf die Form hat das Zusammenspiel von geschriebenem und generiertem Text?  
 
-**These:**
+### These
 
->Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne
-Rekombination von bereits verhandenem und damit letztlich unkreativ.
+>Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
 
 ![alt-text](BenderArt.jpg)
 
@@ -117,6 +121,8 @@ Rekombination von bereits verhandenem und damit letztlich unkreativ.
 In dem Aufsatz „Film Bodies: Gender, Genre and Excess“ unterscheidet die feministische Medientheoretikerin Linda Williams drei verschiedene Formen des „Body Genres“, Filmgenres, die körperliche Extremsituationen darstellen. Der Pornofilm zeigt expliziten Sex, der Horrorfilm explizite körperliche Gewalt, das Melodrama explizite und exzessive Emotionen mit Hang zum Pathos. Williams schreibt:
 
 >„Alone or in combination, heavy doses of sex, violence, and emotion are dismissed by one faction or another as having no logic or reason for existence beyond their power to excite. Gratuitous sex, gratuitous violence and terror, gratuitous emotion are frequent epithets hurled at the phenomenon of the‘sensational in pornography, horror, and melodrama.“
+
+### Reaktion und Ablehnung
 
 Während Sex, Gewalt und Emotionen natürlich auch in anderen Genres dargestellt werden, haben die Body Genres zwei Dinge gemein: Zum einen zielen Sie auf eine mehr oder weniger freiwillige körperliche Reaktion beim Publikum ab. Ich sage mehr oder weniger freiwillig, weil man diese Genres durchaus mit dem Ziel rezipiert, sich seinem eigenen Körper auszuliefern, in der Erregung, in der Angst, im Weinen. Zum anderen haben alle drei ein besonders abgründiges Verhältnis zu Geschlecht, sei es zum vergeschlechtlichten Körper allgemein und zum cis weiblichen Körper im Besonderen. Ob zufällig oder nicht sind diese drei Genres kulturell auch nicht besonders hoch angesehen.
 
