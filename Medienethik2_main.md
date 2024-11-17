@@ -23,38 +23,83 @@ Was erinnert Ihr aus dem ersten Semester?
 
 https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
 
-## Wiederholungen
+## Aktuelle Herausforderungen der Medienethik
 
-### Verantwortung
+### Welche Kanäle nutzt Ihr?
 
-1. Verantwortungsträger:innen
-2. Verantwortungsakteur:innen
-3. Verantwortungsadressat:innen
+1. Wo informiert Ihr Euch worüber?
+2. Wo netzwerkt Ihr?
+3. Wem gehören die Medien und Netzwerke, die Ihr nutzt?
 
-![alt text](Medienverantwortung.jpg)
+### Fake Content
 
-#### Reichweitenverantwortung
+![alt-text](Fireman.jpg)
 
-### Diskurs
 
-### Produktions- und Rezeptionsebene
+Deep-Fakes sind insbesondere in Nachrichtenkontexten ein immenses Problem, stellen abert auch Fiktion und Kunst vor neue Fragen und Herausforderungen.
 
-## Fake Content
 
-Grundunterscheidung zwischen Deep-Fakes und Computergenerierten Inhalten / Charakteren etwa in Sci-Fi- und Fantasy-Produktionen
 
 Warum?:
 
-Berichterstattung hat andere Geltungsansprüche als fiktionaler Film
-Wahrhaftigkeit und Realitätstreue
+Fälschungen sind in jedem Medium so alt wie das Medium selbst - von den Hitlertagebüchern 1983 bis zum Varoufakis-Fake 2015 kamen alle Fakes ganz wunderbar ohne KI aus - , aber der Einsatz von Plattformen, die künstliche Intelligenz nutzen, macht sie allgemein verfügbar. Für die mediale Berichterstattung ist dies verheerend.
+
+Berichterstattung droht ihren Geltungsanspruch zu verlieren
+Wahrhaftigkeit und Realitätstreue werden untergraben
 Affirmativität des Bildes ist letztlich Verantwortungsgegenstand
 
-KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne
+### Verantwortung
+
+![alt text](Medienverantwortung.jpg)
+
+
+>"Für den Journalismus markiert der Verantwortungshorizont im Rahmen der Berichterstattung u.a. die Aufgaben einer Wahrheitsgetreuen Unterrichtung der Öffentlichkeit, die Sorgfaltspflicht, die Richtigstellung von Falschmeldungen, den Schutz der Privatsphäre, das Bestechungsverbot und die Wahrunbg des Berufsgeheimnisses [...]. Im Kontext medienethischer Debatten [stellt sich] unter anderem die Frage, wer die Verantwortung für moralisch fragwürdige Ausprägung der Berichterstattung besitzt. Dabei wird differenziert zwischen der Verantwortung der Akteure, die die Medienprodukte verteilen, sowie die der Mediennutzer [...]." (Schicha 2019, S. 30)
+
+![alt text](Postillon.jpg)
+
+(https://www.der-postillon.com/2019/11/ikea-kartoffeln.html)
+
+### Reichweitenverantwortung
+
+Mit großer Reichweite kommt große Verantwortung
+
+Habe ich als Hollywoodregisseur:in, Produzent:in, Schauspieler:in eine größere Verantwortung für meine Inhalte, weil ich mehr Menschen erreiche als etwa eine Arthouse-Produktion?
+
+Muss ich mich als öffentliche Person politisch positionieren?
+
+
+### AI in der Kreativbranche
+
+![alt-text](LieutenantData.jpg)
+
+In der Kunst wird dagegen die Frage laut, ob künstlerische Tätigkeiten zukünftig durch AI-Modelle ausgeführt werden können.
+
+Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender Sprachmodelle neu in zwei zentralen Aspekten: 
+
+1. Ist ein Text, der mit AI geschrieben wurde, noch eine künstlerische Leistung? 
+
+2. Welche Auswirkungen auf die Form hat das Zusammenspiel von geschriebenem und generiertem Text?  
+
+**These:**
+
+>Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne
 Rekombination von bereits verhandenem und damit letztlich unkreativ.
 
+![alt-text](BenderArt.jpg)
+
+### Mary Midgley (1919-2018)
+
+>"Artificial Intelligence can, plainly, be immensely useful in practical contexts, providing new suggestions and checking old ones within formal systems which have a clear, fixed aim, such as chess, chemistry, or even areas as large as ecology and climatology, if the aims are really well specified. In areas where this is not so—where several different conceptual schemes are involved and especially where aims themselves come into question—its use seems to me much more obscure and its misuse more dangerous. If it does prove to be usable for somehow distinguishing among apparently promising ideas so as to tell us which of them will actually help us, that would be splendid. In that case, good luck to it. But this skill seems to demand a full appreciation of the various needs involved, which is something human beings have no idea how to acquire for themselves yet, and are not likely to be able to give to their programs." (Mary Midgley: Artificial Intelligence and Creativity. S. 141)
 
 
-Serendipity-Argument
+
+
+
+
+
+
+
+
 
 ## Film, Genre und Körper
 
@@ -182,9 +227,13 @@ Funiok, Rüdiger: Medienethik. Verantwortung in der Mediengesellschaft. Stuttgar
 
 Mersch, Dieter: Medientheorien zur Einführung. Hamburg: Junius 2006
 
+Midgley, Mary: Utopias, Dolphins, and Computers. London 2000.
+
 Rusch, Gebhard u.a.: Theorien der Neuen Medien. Kino - Radio - Fernsehen - Computer. Paderborn: Fink
 (UTB) 2007
 
 Schicha, Christian: Medienethik. Grundlagen – Anwendungen – Ressourcen (utb) 2019
+
+Williams, Linda: Film Bodies: Gender, Genre and Excess. Film Quarterly, Vol. 44, No. 4 (Summer, 1991), pp. 2-13. 
 
 Ziemann, Andreas (Hg.):  Grundlagentexte der Medienkultur. Ein Reader. Wiebaden: Springer 2019.
