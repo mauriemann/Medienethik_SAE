@@ -37,7 +37,7 @@ https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
 
 ![alt text](Postillon.jpg)
 
-
+(https://www.der-postillon.com/2019/11/ikea-kartoffeln.html)
 
 Deep-Fakes sind insbesondere in Nachrichtenkontexten ein immenses Problem, stellen aber auch Fiktion und Kunst vor neue Fragen und Herausforderungen.
 
@@ -62,7 +62,7 @@ Fälschungen sind in jedem Medium so alt wie das Medium selbst - von den Hitlert
 
 ![alt-text](Fireman.jpg)
 
-(https://www.der-postillon.com/2019/11/ikea-kartoffeln.html)
+
 
 ### Reichweitenverantwortung
 
@@ -220,11 +220,11 @@ Offenes vs. Geschlossenes Set
 
 ## Break-Out Session
 
-Sprecht miteinander über Eure aktuellen Projekte und deren ethische Herausforderungen! (15min)
+1. Sprecht miteinander über Eure aktuellen Projekte und deren ethische Herausforderungen! (15min)
 
-Stellt die Ergebnisse kurz im Plenum vor! (2-3min pro Gruppe)
+2. Stellt die Ergebnisse kurz im Plenum vor! (2-3min pro Gruppe)
 
-Abschließende Diskussion im Plenum.
+3. Abschließende Diskussion im Plenum.
 
 
 ## Literaturhinweise und Empfehlungen
