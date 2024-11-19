@@ -21,7 +21,7 @@ Moritz Riemann riemann@philsem.uni-kiel.de
 
 Was erinnert Ihr aus dem ersten Semester?
 
-https://app.conceptboard.com/board/prur-179f-4izs-6ybg-94pi
+https://app.conceptboard.com/board/qq7o-3dce-4cpd-nqhk-3ir5
 
 ## Aktuelle Herausforderungen der Medienethik
 
@@ -71,6 +71,28 @@ Mit großer Reichweite kommt große Verantwortung:
 * Habe ich als Hollywoodregisseur:in, Produzent:in, Schauspieler:in eine größere Verantwortung für meine Inhalte, weil ich mehr Menschen erreiche als etwa eine Arthouse-Produktion?
 
 * Muss ich mich als öffentliche Person politisch positionieren?
+
+### Freiwilige Selbstkontrolle der Filmbranche
+
+**Aus der Satzung der FSK:**
+
+>(1) Die FSK hat die im Grundgesetz geschützten Werte, im Besonderen die verfassungsmäßige Ordnung und das Sittengesetz (Art. 2, Abs. 1 GG) sowie die in Art. 5 GG eingeräumte Freiheit zu beachten. Gesetzliche Grundlage für die Arbeit der FSK ist das Jugendschutzgesetz in der jeweils geltenden Form.
+
+>(3) Maßgeblich für die Beurteilung ist die Wirkung des gesamten Films oder Trägermediums oder deren einzelner Teile. Bei einzelnen Teilen ist auch die Gesamtwirkung zu berücksichtigen. Die Prüfung eines Films oder Trägermediums darf nicht unter Gesichtspunkten des Geschmacks oder der persönlichen Anschauung erfolgen.
+
+**Website des Medienrats Hamburg-Schleswig Holstein**
+
+https://www.ma-hsh.de/aufsicht.html
+
+
+Konzentration der inhaltlichen Kontrolle auf Jugendschutz
+
+
+**Deutscher Ethikrat**
+
+https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine/
+
+Konzentration auf KI und Technikethik
 
 
 ### AI in der Kreativbranche
