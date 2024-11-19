@@ -90,6 +90,8 @@ Konzentration der inhaltlichen Kontrolle auf Jugendschutz
 
 **Deutscher Ethikrat**
 
+![alt-text](illustration-mensch-und-maschine.pdf)
+
 https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine/
 
 Konzentration auf KI und Technikethik
