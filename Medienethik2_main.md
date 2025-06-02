@@ -91,7 +91,7 @@ Konzentration der inhaltlichen Kontrolle auf Jugendschutz
 
 **Deutscher Ethikrat**
 
-![alt-text](illustration-mensch-und-maschine.pdf)
+![alt-text](illustration-mensch-und-maschine-1.jpg)
 
 https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine/
 
