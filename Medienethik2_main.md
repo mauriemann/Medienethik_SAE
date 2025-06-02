@@ -15,13 +15,13 @@ Heike Behnke behnke@philsem.uni-kiel.de
 
 Moritz Riemann riemann@philsem.uni-kiel.de
 
-18.11.2024 und 19.11.2024
+28.05.2025 und 02.06.2025
 
 ## Rückblende
 
 Was erinnert Ihr aus dem ersten Semester?
 
-https://app.conceptboard.com/board/qq7o-3dce-4cpd-nqhk-3ir5
+[Conceptboard](https://app.conceptboard.com/board/qq7o-3dce-4cpd-nqhk-3ir5)
 
 ## Aktuelle Herausforderungen der Medienethik
 
@@ -30,8 +30,9 @@ https://app.conceptboard.com/board/qq7o-3dce-4cpd-nqhk-3ir5
 ### Welche Kanäle nutzt Ihr?
 
 1. Wo informiert Ihr Euch worüber?
-2. Wo netzwerkt Ihr?
-3. Wem gehören die Medien und Netzwerke, die Ihr nutzt?
+2. Wie überprüft Ihr, ob die Inhalte stimmen?
+3. Wo netzwerkt Ihr?
+4. Wem gehören die Medien und Netzwerke, die Ihr nutzt?
 
 ### Fake Content
 
