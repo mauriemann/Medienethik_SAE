@@ -77,7 +77,7 @@ Mit großer Reichweite kommt große Verantwortung:
 
   Abschaffung der Faktenchecks durch Meta, X, und andere Social-Media-Konzerne als Zugeständnis an und Ausdruck von autoritärer Politik
 
-### Freiwilige Selbstkontrolle der Filmbranche
+### Freiwillige Selbstkontrolle der Filmbranche
 
 **Aus der Satzung der FSK:**
 
