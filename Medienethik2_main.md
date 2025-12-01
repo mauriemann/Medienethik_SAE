@@ -101,6 +101,9 @@ https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine/
 
 Konzentration auf KI und Technikethik
 
+### KI zwischen Mythos und Technik: Die Amnesie
+
+>„Die Amnesie, die jene Konzepte umhüllt, mit denen die Technologieunternehmen öffentliche Politik betreiben (ohne zuzugeben, dass sie es tun), ist ein struktureller Bestandteil dieser Konzepte. Indem die Neuheit des Problems (oder zumindest seiner ‚Einordnung‘) zum Fetisch gemacht wird, werden der Öffentlichkeit die analytischen Werkzeuge entzogen, die sie bisher für die Auseinandersetzung mit ähnlichen Problemen nutzte.“ (Adrian Daub, *Was das Valley Denken nennt*, Frankfurt a.M. 2025, 9)
 
 ### AI in der Kreativbranche
 
