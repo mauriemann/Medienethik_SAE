@@ -44,7 +44,7 @@ Deep-Fakes sind insbesondere in Nachrichtenkontexten ein immenses Problem, stell
 
 
 
-Warum?:
+**Warum?**
 
 Fälschungen sind in jedem Medium so alt wie das Medium selbst - von den Hitlertagebüchern 1983 bis zum Varoufakis-Fake 2015 kamen alle Fakes ganz wunderbar ohne KI aus - , aber der Einsatz von Plattformen, die künstliche Intelligenz nutzen, macht sie allgemein verfügbar. Für die mediale Berichterstattung ist dies verheerend.
 
@@ -75,7 +75,8 @@ Mit großer Reichweite kommt große Verantwortung:
 
   **Beispiel:**
 
-  Abschaffung der Faktenchecks durch Meta, X, und andere Social-Media-Konzerne als Zugeständnis an und Ausdruck von autoritärer Politik
+  1. Steven Spielberg entschuldigt sich beim Weißen Hai für "Jaws"
+  2. Abschaffung der Faktenchecks durch Meta, X, und andere Social-Media-Konzerne als Zugeständnis an und Ausdruck von autoritärer Politik
 
 ### Freiwillige Selbstkontrolle der Filmbranche
 
@@ -117,10 +118,13 @@ Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender S
 
 2. Welche Auswirkungen auf die Form hat das Zusammenspiel von geschriebenem und generiertem Text?  
 
-### These
+### Thesen
 
->Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
 
+1. Wir müssen uns generative KI als mäßig motivierte und talentierte Verwaltungskraft vorstellen
+![AI Bureau](AI_Bureau.jpg)
+
+2. Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
 ![alt-text](BenderArt.jpg)
 
 ### Mary Midgley (1919-2018)
