@@ -122,9 +122,11 @@ Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender S
 
 
 1. Wir müssen uns generative KI als mäßig motivierte und talentierte Verwaltungskraft vorstellen
-![AI Bureau](AI_Bureau.jpg)
 
-2. Rein KI-Generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
+![alt-text](AI_Bureau.jpg)
+
+2. Rein KI-generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
+   
 ![alt-text](BenderArt.jpg)
 
 ### Mary Midgley (1919-2018)
