@@ -100,11 +100,21 @@ Konzentration der inhaltlichen Kontrolle auf Jugendschutz
 
 https://www.ethikrat.org/publikationen/stellungnahmen/mensch-und-maschine/
 
-Konzentration auf KI und Technikethik
+**Starke Konzentration auf KI und Technikethik**
 
 ### KI zwischen Mythos und Technik: Die Amnesie
 
 >„Die Amnesie, die jene Konzepte umhüllt, mit denen die Technologieunternehmen öffentliche Politik betreiben (ohne zuzugeben, dass sie es tun), ist ein struktureller Bestandteil dieser Konzepte. Indem die Neuheit des Problems (oder zumindest seiner ‚Einordnung‘) zum Fetisch gemacht wird, werden der Öffentlichkeit die analytischen Werkzeuge entzogen, die sie bisher für die Auseinandersetzung mit ähnlichen Problemen nutzte.“ (Adrian Daub, *Was das Valley Denken nennt*, Frankfurt a.M. 2025, 9)
+
+
+### Probleme mit KI-Datensätzen (Auswahl)
+
+* Bias (gesellschaftliche Stereotype werden reproduziert)
+* Undurchsichtige Quellen
+* Unseriöse bis erfundene Quellen
+* Wahrscheinlichkeit vor Richtigkeit
+* Keine Kennzeichnung von unsicheren Aussagen
+
 
 ### AI in der Kreativbranche
 
@@ -125,7 +135,7 @@ Die Frage nach Autor:innenschaft stellt sich mit dem Einsatz textgenerierender S
 
 ![alt-text](AI_Bureau.jpg)
 
-2. Rein KI-generierte Kunst ist uninteressant, random, Durchschnitt im arithmetischen/algorithmischen Sinne Rekombination von bereits verhandenem und damit letztlich unkreativ.
+2. Rein KI-generierte Kunst ist uninteressant, Durchschnitt im arithmetischen Sinne sowie algorithmische Rekombination von bereits verhandenem und damit letztlich unkreativ.
    
 ![alt-text](BenderArt.jpg)
 
