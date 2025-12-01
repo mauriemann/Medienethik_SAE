@@ -15,13 +15,16 @@ Heike Behnke behnke@philsem.uni-kiel.de
 
 Moritz Riemann riemann@philsem.uni-kiel.de
 
-28. Mai 2025 und 2. Juni 2025
+2.12.2025
 
 ## Rückblende
 
 Was erinnert Ihr aus dem ersten Semester?
 
-[Conceptboard](https://app.conceptboard.com/board/qq7o-3dce-4cpd-nqhk-3ir5)
+zum Beispiel: 
+* Ethische Grundbegriffe
+* Medienethische Herausforderungen
+* Medienarten, Medientransferprobleme
 
 ## Aktuelle Herausforderungen der Medienethik
 
