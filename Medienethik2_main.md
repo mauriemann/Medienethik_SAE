@@ -73,6 +73,10 @@ Mit großer Reichweite kommt große Verantwortung:
 
 * Muss ich mich als öffentliche Person politisch positionieren?
 
+  **Beispiel:**
+
+  Abschaffung der Faktenchecks durch Meta, X, und andere Social-Media-Konzerne als Zugeständnis an und Ausdruck von autoritärer Politik
+
 ### Freiwilige Selbstkontrolle der Filmbranche
 
 **Aus der Satzung der FSK:**
