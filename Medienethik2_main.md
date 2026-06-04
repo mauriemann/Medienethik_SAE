@@ -269,6 +269,34 @@ Offenes vs. Geschlossenes Set
 
 ![alt-text](Regisseure.jpg)
 
+### Wim Wenders und Nastassja Kinski
+
+**Factsheet**
+
+Natassja Kinski (*1961)
+- zweite Tochter des Schauspielers Klaus Kinski
+- begann mit 13 zu schauspielern
+- erste Rolle in Wim Wenders Falsche Bewegung (1974)
+
+Falsche Bewegung
+    • Variation von Wilhelm Meisters Lehrjahre
+    • Kinski spielt das stumme Mädchen Mignon
+    • In einer Szene ist sie mit freiem Oberkörper zu sehen, der erwachsene Protagonist legt sich zu ihr ins Bett
+
+Die Bitte
+    • Im Interview mit der SZ gibt Kinski an, sich beim Dreh sehr unwohl gefühlt zu haben
+    • Sie habe Wenders seit längerem wiederholt gebeten, die Szene rauszuschneiden
+    • Da er nicht reagiere, geht sie nun an die Öffentlichkeit
+
+Wenders Antwort
+    • Wenders sagt in der Dankesrede bei der Verleihung des Ehrenlolas, es sei eine andere Zeit gewesen
+    • Er ruft die jüngeren Filmschaffenden dazu auf, mit ihm in einen Dialog über das nachträgliche Verändern von Filmen zu treten
+
+Argumente:
+    • Filmhistorisch: Filme wurden schon immer neu und umgeschnitten, nicht immer aus Zensurgründen
+    • Rechtlich: wer die Urheberrechte an einem Film hat, hat die alleinige Entscheidungsgewalt
+    • Produktionslogisch: Film ist ein Kollektivmedium. Urheberrechte und Autor*innenschaft sind zweierlei. Kinski erhebt genau das: einen Anspruch auf Autorinnenschaft
+
 ## Break-Out Session
 
 1. Sprecht miteinander über Eure aktuellen Projekte und deren ethische Herausforderungen! (15min)
