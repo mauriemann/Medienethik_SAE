@@ -15,7 +15,7 @@ Heike Behnke behnke@philsem.uni-kiel.de
 
 Moritz Riemann riemann@philsem.uni-kiel.de
 
-Dienstag, den 2.12.2025
+4. Juni 2026
 
 ## Rückblende
 
